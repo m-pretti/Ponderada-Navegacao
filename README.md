@@ -28,6 +28,14 @@ Certifique-se de estar na raiz do workspace e ter o pacote `cg_interfaces` insta
 
 ### **1. Compile o projeto**
 
+Se for a primeira vez que está compilando:
+
+```bash
+colcon build
+```
+
+Depois de buildar: 
+
 ```bash
 colcon build --packages-select atividade
 ```
