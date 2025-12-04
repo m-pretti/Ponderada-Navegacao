@@ -123,3 +123,8 @@ ros2 run atividade etapa01
 ```
 
 * **Melhor caminho:** execução rápida da rota calculada para validar o mapa.
+
+### Vídeo Explicativo
+
+
+[Vídeo](https://drive.google.com/drive/folders/18ymObB7-tpWtJleKrv3zLws9moR35ceg?usp=drive_link)
